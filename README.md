@@ -5,4 +5,4 @@
 *Utilized line charts, bar charts, and interactive slicers to
  visualize sales trends, identify revenue growth opportunities,
  and improve decision-making efficiency, contributing to a
- 12% increase in sales revenue.
+ 12% increase in sales revenue. 
